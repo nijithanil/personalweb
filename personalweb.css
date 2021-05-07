@@ -10,11 +10,6 @@
     font-family:fantasy;
 
 }
-.section1{
-    background-color: rgb(54, 57, 59);
-    height: 410px;
-}
-
 .img-responsive {
     
     width: 40%;
@@ -26,7 +21,7 @@
   .section1{
       
       height: 576px;
-      background-color: rgb(28, 32, 34);
+      background-image:url(/personalweb/images/Savin-NY-Website-Background-Web-1024x576.jpg)
       
   }
   .section1A{
