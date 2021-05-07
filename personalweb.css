@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    overflow-x: hidden;
+
+
+}
+.headname{
+    font-family:fantasy;
+
+}
+.section1{
+    background-color: rgb(54, 57, 59);
+    height: 410px;
+}
+
+.img-responsive {
+    
+    width: 40%;
+
+    margin-top: 25% ;
+    margin-left: 33%;
+
+  }
+  .section1{
+      
+      height: 576px;
+      background-color: rgb(28, 32, 34);
+      
+  }
+  .section1A{
+    
+    background-color:rgb(217, 231, 233)
+
+  }
+  .section2{
+      margin-top: -16px;
+      background-color:rgb(217, 231, 233)
+       
+  }
+
+  .section3{
+      padding-bottom: 70px;
+      margin-bottom: -50px;
+      background-color:rgb(217, 231, 233)
+     
+  }
+  .section3-sub{
+      margin-top: 41px;
+  }
+
+.section4{
+    padding-bottom: 40px;
+    margin-bottom: -40px;
+    background-color:rgb(217, 231, 233)
+    
+
+}
+
+.footer5{
+    background-color:rgb(217, 231, 233)
+}
+
+.companyname{
+    margin-top: 14%;
+    font-family:fantasy;
+
+}
+.about1{
+    margin-top: 12%;
+    font-family:fantasy;
+}
+
+#card-space{
+    margin-left: 3%;
+
+}
+
+.my-services{
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.my-service-head{
+
+    font-size: 50px;
+    font-family:fantasy;
+}
+
+.card{
+    transition: transform 0.2s;
+}
+
+.card:hover{
+    transform: scale(1.2);
+   
+}
+.skills{
+    font-family:fantasy;
+}
+
+.error{
+    color: brown;
+}
